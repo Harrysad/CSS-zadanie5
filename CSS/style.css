@@ -26,7 +26,6 @@ body {
 
 .numbered-list {
     background-color: brown;
-    padding: 10px;
 }
 
 .list-item:nth-child(1) {
