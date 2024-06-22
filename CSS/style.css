@@ -1,0 +1,50 @@
+body {
+    background-color: yellow;
+    margin 0;
+    font-family: Arial, sans-serif;
+}
+
+.main-title {
+    background-color: pink;
+    padding: 10px;
+}
+
+.main-par {
+    background-color: greenyellow;
+    padding: 10px;
+}
+
+.sub-title {
+    background-color: blue;
+    padding: 10px;
+}
+
+.sub-par {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.numbered-list {
+    background-color: brown;
+    padding: 10px;
+}
+
+.list-item:nth-child(1) {
+    color: chocolate;
+}
+
+.list-item:nth-child(2) {
+    color: blueviolet;
+}
+
+.list-item:nth-child(3) {
+    color: cyan;
+}
+
+.list-item:nth-child(4) {
+    color: darkmagenta;   
+}
+
+.list-item:nth-child(5) {
+    color: indianred;  
+}
